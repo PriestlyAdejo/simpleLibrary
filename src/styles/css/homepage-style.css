@@ -1,0 +1,14 @@
+.container {
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
+
+.title-section {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+}
